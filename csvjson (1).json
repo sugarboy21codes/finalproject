@@ -2,26 +2,26 @@
   {
     "id": 1,
     "room": "animal",
-    "instruction ": "Be careful, there is a cat behind the counter",
-    "instruction ": "",
-    "instruction ": "",
-    "instruction ": ""
+    "instruction 1": "Be careful, there is a cat behind the counter",
+    "instruction 2": "",
+    "instruction 3": "",
+    "instruction 4": ""
   },
   {
     "id": 2,
     "room": "person",
-    "instruction ": "There is a guard here you have to tie up",
-    "instruction ": "The shop owner gives you a gun for free",
-    "instruction ": "Mike loans you $200 to buy some supplies you will need and makes cales to order what you will need",
-    "instruction ": "The bartender offers you a drink",
+    "instruction 1": "There is a guard here you have to tie up",
+    "instruction 2": "The shop owner gives you a gun for free",
+    "instruction 3": "Mike loans you $200 to buy some supplies you will need and makes cales to order what you will need",
+    "instruction 4": "The bartender offers you a drink",
     "The shop owner gives you a gun for free": "The shop owner gives you a the ropes mike oederd"
   },
   {
     "id": 3,
     "room": "item",
-    "instruction ": "You pick up the the item and leave",
-    "instruction ": "",
-    "instruction ": "",
-    "instruction ": ""
+    "instruction 1": "You pick up the the item and leave",
+    "instruction 2": "",
+    "instruction 3": "",
+    "instruction 4": ""
   }
 ]
