@@ -5,8 +5,7 @@
     "instruction 1": "Be careful, there is a cat behind the counter",
     "instruction 2": "",
     "instruction 3": "",
-    "instruction 4": "",
-    "The shop owner gives you a gun for free": ""
+    "instruction 4": ""
   },
   {
     "id": 2,
@@ -23,7 +22,6 @@
     "instruction 1": "You pick up the the item and leave",
     "instruction 2": "",
     "instruction 3": "",
-    "instruction 4": "",
-    "The shop owner gives you a gun for free": ""
+    "instruction 4": ""
   }
 ]
